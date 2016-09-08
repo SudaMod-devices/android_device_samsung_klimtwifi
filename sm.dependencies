@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "suda",
+    "repository": "exynos5420/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "suda",
+    "repository": "CM-Tab-S/android_kernel_samsung_klimtwifi",
+    "target_path": "kernel/samsung/klimtwifi",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "suda",
+    "repository": "exynos5420/android_hardware_samsung_slsi-cm_exynos5420",
+    "target_path": "hardware/samsung_slsi-cm/exynos5420",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "suda",
+    "repository": "CyanogenMod/android_hardware_samsung_slsi_exynos5",
+    "target_path": "hardware/samsung_slsi-cm/exynos5",
+    "revision": "cm-13.0"
+  }
+]
